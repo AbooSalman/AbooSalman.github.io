@@ -65,3 +65,9 @@ export const contributions = [
         figma_link: "-"
     }
 ]
+
+export const socialLinks = {
+    whatsapp:"https://api.whatsapp.com/send?phone=447835762829&text=Hello%20Ganiu!%2C%0A%0AI%20would%20like%20to%20discuss%20a%20project%20idea%20with%20you.",
+    email:"mailto:omowalefst@gmail.com",
+    linkedIn:"https://www.linkedin.com/in/iamomowale"
+}

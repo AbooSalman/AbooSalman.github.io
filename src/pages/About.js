@@ -5,6 +5,7 @@ import { ReactComponent as Map } from "assets/images/kaduna.svg"
 import { ReactComponent as Document } from "assets/icons/document.svg"
 import { ReactComponent as Globe } from "assets/icons/globe.svg"
 import React from "react";
+import {socialLinks} from "utils/constants"
 
 const About = () => (
     <div>
@@ -46,10 +47,13 @@ const About = () => (
                             <span className="font-freight-regular text-[20px] leading-[23.44px] text-[#F0F1F5]">View Resume</span>
                             <Document />
                         </button>
-                        <button type="button" className="px-[30px] h-[64px] border border-[#FAFCFE]/[.2] flex items-center space-x-6">
+                        <a href={socialLinks.linkedIn} 
+                        rel="noreferrer"
+                        target="_blank"
+                        className="px-[30px] h-[64px] border border-[#FAFCFE]/[.2] flex items-center space-x-6">
                             <span className="font-freight-regular text-[20px] leading-[23.44px] text-[#F0F1F5]">View Linkedin</span>
                             <Globe />
-                        </button>
+                        </a>
                     </div>
                 </div>
             </div>

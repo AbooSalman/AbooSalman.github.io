@@ -1,4 +1,5 @@
 import React from 'react'
+import {socialLinks} from "utils/constants"
 import { ReactComponent as Youtube } from 'assets/icons/social/youtube.svg'
 import { ReactComponent as Twitter } from 'assets/icons/social/twitter.svg'
 import { ReactComponent as Instagram } from 'assets/icons/social/instagram.svg'
@@ -12,8 +13,8 @@ const Footer = () => (
                 Let&apos;s work together to
                 build awesome products</h2>
             <div className='flex justify-center items-center space-x-10'>
-                <button type="button" className='border border-darkGrey rounded-2xl text-white h-[152px] w-[540px] font-freight-regular text-[30px]'>Send a Whatsapp Message</button>
-                <button type="button" className='border border-darkGrey rounded-2xl text-white h-[152px] w-[540px] font-freight-regular text-[30px]'>Send an Email</button>
+                <a href={socialLinks.whatsapp} target="_blank" rel="noreferrer" className='border border-darkGrey rounded-2xl text-white h-[152px] w-[540px] font-freight-regular text-[30px] flex items-center justify-center'>Send a Whatsapp Message</a>
+                <a href={socialLinks.email} target="_blank" rel="noreferrer" className='border border-darkGrey rounded-2xl text-white h-[152px] w-[540px] font-freight-regular text-[30px] flex items-center justify-center'>Send an Email</a>
             </div>
             <div className='flex justify-center items-center space-x-4'>
                 <div className='h-8 w-8 rounded-full justify-center items-center flex bg-white'>

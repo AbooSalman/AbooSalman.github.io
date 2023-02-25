@@ -21,7 +21,7 @@ const Hero = () => (
             I&apos;ve been working on.<br />
             <Link to="/about" className='text-white underline font-axiforma-regular'>Learn more about me.</Link>
         </p>
-        <div className='mt-[94px] mx-auto max-w-xt px-[150px]'>
+        <div className='mt-[94px]'>
             <img src={mask} alt="mask" className='select-none pointer-events-none' />
         </div>
     </div>

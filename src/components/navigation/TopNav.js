@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link, NavLink } from 'react-router-dom'
 import { ReactComponent as Message } from "assets/icons/message.svg"
+import {socialLinks} from "utils/constants"
 
 const TopNav = () => (
     <nav className='fixed top-0 left-0 w-full bg-dark h-[120px] z-[2]'>
@@ -19,9 +20,13 @@ const TopNav = () => (
                     </NavLink>
                 </li>
                 <li><span className='text-white/[.4] font-gilroy-medium'>Articles</span></li>
-                <li className='flex items-center space-x-[11.5px]'>
+                <li>
+                <a className='flex items-center space-x-[11.5px]' href={socialLinks.email} target="_blank"
+                 rel="noreferrer"
+                >
                     <span className='text-white font-gilroy-medium'>Say Hello!</span>
                     <Message />
+                </a>
                 </li>
             </ul>
         </div>
