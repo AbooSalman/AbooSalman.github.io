@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.c8dd213c.css",
+    "main.js": "/portfolio/static/js/main.02c2caab.js",
+    "static/js/787.396d80e2.chunk.js": "/portfolio/static/js/787.396d80e2.chunk.js",
+    "static/media/image-1.png": "/portfolio/static/media/image-1.facd40f1b16028c76230.png",
+    "static/media/cashcrop.png": "/portfolio/static/media/cashcrop.0bb4fc3a6db6b2fe2354.png",
+    "static/media/todlr-learn.png": "/portfolio/static/media/todlr-learn.9d7052655133bad25cd5.png",
+    "static/media/Axiforma-Regular.ttf": "/portfolio/static/media/Axiforma-Regular.c4f8a961a15e460f3a71.ttf",
+    "static/media/Axiforma-Bold.ttf": "/portfolio/static/media/Axiforma-Bold.179a245385b803119e63.ttf",
+    "static/media/Axiforma-Light.ttf": "/portfolio/static/media/Axiforma-Light.fe89ffb1a89f5ea2b030.ttf",
+    "static/media/FreightBigProBlack-Regular.ttf": "/portfolio/static/media/FreightBigProBlack-Regular.7246296940b4910c6098.ttf",
+    "static/media/todlr.png": "/portfolio/static/media/todlr.44d0c1750559be36e520.png",
+    "static/media/mask.png": "/portfolio/static/media/mask.b28ae5cface128d3141e.png",
+    "static/media/patricia.png": "/portfolio/static/media/patricia.ce3db03c42687dc79e10.png",
+    "static/media/Gilroy-Medium.ttf": "/portfolio/static/media/Gilroy-Medium.1c23f810e531d0702f76.ttf",
+    "static/media/Jellyka_Estrya_Handwriting.ttf": "/portfolio/static/media/Jellyka_Estrya_Handwriting.2986b095888630cd6372.ttf",
+    "static/media/mosaic.png": "/portfolio/static/media/mosaic.9363f740ea53a9f7dacb.png",
+    "static/media/instagram.svg": "/portfolio/static/media/instagram.56eea72486c8bf340cd3e9ce45e5b619.svg",
+    "static/media/kaduna.svg": "/portfolio/static/media/kaduna.9663e12bfcf0ac06cae93dd0539fb82d.svg",
+    "static/media/diagonal-arrow-right-up.svg": "/portfolio/static/media/diagonal-arrow-right-up.dc132b9741352c9fb21d3a2d16e573c4.svg",
+    "static/media/globe.svg": "/portfolio/static/media/globe.81b7785400fb5d83dc8ea72bb25a3ca0.svg",
+    "static/media/twitter.svg": "/portfolio/static/media/twitter.cfc7e034e07ada220ea49a38f82235eb.svg",
+    "static/media/youtube.svg": "/portfolio/static/media/youtube.013446ce84b6acf7766498e3879020d1.svg",
+    "static/media/message.svg": "/portfolio/static/media/message.928b5123153ce2f6728ddb675e31cdf8.svg",
+    "static/media/facebook.svg": "/portfolio/static/media/facebook.1bf99732c9b79f9754966a5b76d9d3ee.svg",
+    "static/media/medium.svg": "/portfolio/static/media/medium.cb3b86e3f3248c88babd50e790317259.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/arrow-right.svg": "/portfolio/static/media/arrow-right.f2f6b3e2a123998641311a773cc80657.svg",
+    "static/media/document.svg": "/portfolio/static/media/document.fcd5d22726cd6317934374726696c50d.svg",
+    "main.c8dd213c.css.map": "/portfolio/static/css/main.c8dd213c.css.map",
+    "main.02c2caab.js.map": "/portfolio/static/js/main.02c2caab.js.map",
+    "787.396d80e2.chunk.js.map": "/portfolio/static/js/787.396d80e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8dd213c.css",
+    "static/js/main.02c2caab.js"
+  ]
+}
