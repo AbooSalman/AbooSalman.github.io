@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AbooSalman.github.io/static/css/main.6f298db5.css",
-    "main.js": "/AbooSalman.github.io/static/js/main.7f76ef62.js",
+    "main.js": "/AbooSalman.github.io/static/js/main.0d0d2e4e.js",
     "static/js/787.396d80e2.chunk.js": "/AbooSalman.github.io/static/js/787.396d80e2.chunk.js",
     "static/media/image-1.png": "/AbooSalman.github.io/static/media/image-1.facd40f1b16028c76230.png",
     "static/media/cashcrop.png": "/AbooSalman.github.io/static/media/cashcrop.0bb4fc3a6db6b2fe2354.png",
@@ -29,11 +29,11 @@
     "static/media/arrow-right.svg": "/AbooSalman.github.io/static/media/arrow-right.f2f6b3e2a123998641311a773cc80657.svg",
     "static/media/document.svg": "/AbooSalman.github.io/static/media/document.fcd5d22726cd6317934374726696c50d.svg",
     "main.6f298db5.css.map": "/AbooSalman.github.io/static/css/main.6f298db5.css.map",
-    "main.7f76ef62.js.map": "/AbooSalman.github.io/static/js/main.7f76ef62.js.map",
+    "main.0d0d2e4e.js.map": "/AbooSalman.github.io/static/js/main.0d0d2e4e.js.map",
     "787.396d80e2.chunk.js.map": "/AbooSalman.github.io/static/js/787.396d80e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6f298db5.css",
-    "static/js/main.7f76ef62.js"
+    "static/js/main.0d0d2e4e.js"
   ]
 }
