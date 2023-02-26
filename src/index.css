@@ -47,6 +47,7 @@
 body,html{
 	overflow-x:hidden;
 	scroll-behavior: smooth;
+	background: #070B0D;
 }
 
 .scrollbar-hide::-webkit-scrollbar {

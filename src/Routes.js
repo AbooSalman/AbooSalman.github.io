@@ -1,15 +1,17 @@
+import { AnimatePresence } from 'framer-motion'
 import { About, Home } from 'pages'
 import React from 'react'
-import { createBrowserRouter, RouterProvider } from 'react-router-dom'
+import { Routes, Route } from 'react-router-dom'
 
 
 const AppRoutes = () => {
-    const router = createBrowserRouter([
-        { path: "/", element: <Home /> },
-        { path: "/about", element: <About /> },
-    ])
     return (
-        <RouterProvider router={router} />
+        <AnimatePresence mode="wait">
+            <Routes>
+                <Route path="/about" element={<About />} />
+                <Route path="/" element={<Home />} />
+            </Routes>
+        </AnimatePresence>
     )
 }
 

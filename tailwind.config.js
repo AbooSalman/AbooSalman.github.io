@@ -13,6 +13,9 @@ module.exports = {
       maxWidth: {
         'xt': '1440px'
       },
+      screens: {
+        'xt': '1350px'
+      },
       fontFamily: {
         'freight-regular': 'freight-regular',
         handwriting: 'handwriting',
