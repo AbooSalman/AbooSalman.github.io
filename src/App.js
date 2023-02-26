@@ -5,7 +5,7 @@ import AppRoutes from './Routes'
 const App = () => (
   <div className='min-h-screen bg-dark'>
     <div>
-      <BrowserRouter basename="https://aboosalman.github.io">
+      <BrowserRouter basename="https://aboosalman.github.io/">
         <AppRoutes />
       </BrowserRouter>
     </div>
