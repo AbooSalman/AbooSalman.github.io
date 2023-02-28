@@ -1,7 +1,7 @@
 import React from 'react'
 import { motion } from 'framer-motion'
 import { Link } from 'react-router-dom'
-import mask from 'assets/images/mask.png'
+// import mask from 'assets/images/mask.png'
 
 const Hero = () => (
     <div>
@@ -36,9 +36,9 @@ const Hero = () => (
                 <Link to="/about" className='text-white underline font-axiforma-regular'>Learn more about me.</Link>
             </motion.p>
         </div>
-        <div className='mt-[94px]'>
+        {/* <div className='mt-[94px]'>
             <img src={mask} alt="mask" className='select-none pointer-events-none' />
-        </div>
+        </div> */}
     </div>
 )
 

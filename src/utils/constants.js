@@ -2,7 +2,7 @@
 import patricia from "assets/images/projects/patricia.png"
 import cashcrop from "assets/images/projects/cashcrop.png"
 import mosaic from "assets/images/projects/mosaic.png"
-import todlr from "assets/images/projects/todlr.png"
+import todlr from "assets/images/projects/todlr.jpg"
 import todlrLearn from "assets/images/projects/todlr-learn.png"
 import arVr from "assets/images/projects/ar-vr.png"
 
@@ -54,6 +54,7 @@ export const contributions = [
     {
         name: "Patricia Business",
         description: "The easiest way to accept stablecoins for online payments. Patricia Business helps individuals and businesses to accept payments with cryptocurrencies from customers",
+        figma_link: "https://www.figma.com/proto/8VkEduhbQ66ykW2c0E4LTE/NEW.FIG?page-id=3195%3A2856&node-id=3195%3A4842&viewport=900%2C1183%2C0.07&scaling=min-zoom&starting-point-node-id=3195%3A4842"
     },
     {
         name: "Glover gloverapp.co",
@@ -67,7 +68,7 @@ export const contributions = [
 ]
 
 export const socialLinks = {
-    whatsapp:"https://api.whatsapp.com/send?phone=447835762829&text=Hello%20Ganiu!%2C%0A%0AI%20would%20like%20to%20discuss%20a%20project%20idea%20with%20you.",
-    email:"mailto:omowalefst@gmail.com",
-    linkedIn:"https://www.linkedin.com/in/iamomowale"
+    whatsapp: "https://api.whatsapp.com/send?phone=447835762829&text=Hello%20Ganiu!%2C%0A%0AI%20would%20like%20to%20discuss%20a%20project%20idea%20with%20you.",
+    email: "mailto:omowalefst@gmail.com",
+    linkedIn: "https://www.linkedin.com/in/iamomowale"
 }
