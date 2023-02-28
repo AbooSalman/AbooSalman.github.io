@@ -1,17 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.aefd6c32.css",
-    "main.js": "/static/js/main.682e4a88.js",
+    "main.js": "/static/js/main.3f2cf260.js",
     "static/js/787.396d80e2.chunk.js": "/static/js/787.396d80e2.chunk.js",
     "static/media/image-1.png": "/static/media/image-1.facd40f1b16028c76230.png",
     "static/media/cashcrop.png": "/static/media/cashcrop.0bb4fc3a6db6b2fe2354.png",
+    "static/media/todlr.jpg": "/static/media/todlr.18a3d445c238b9464e92.jpg",
     "static/media/todlr-learn.png": "/static/media/todlr-learn.9d7052655133bad25cd5.png",
     "static/media/Axiforma-Regular.ttf": "/static/media/Axiforma-Regular.c4f8a961a15e460f3a71.ttf",
     "static/media/Axiforma-Bold.ttf": "/static/media/Axiforma-Bold.179a245385b803119e63.ttf",
     "static/media/Axiforma-Light.ttf": "/static/media/Axiforma-Light.fe89ffb1a89f5ea2b030.ttf",
     "static/media/FreightBigProBlack-Regular.ttf": "/static/media/FreightBigProBlack-Regular.7246296940b4910c6098.ttf",
-    "static/media/todlr.png": "/static/media/todlr.44d0c1750559be36e520.png",
-    "static/media/mask.png": "/static/media/mask.b28ae5cface128d3141e.png",
     "static/media/patricia.png": "/static/media/patricia.ce3db03c42687dc79e10.png",
     "static/media/Gilroy-Medium.ttf": "/static/media/Gilroy-Medium.1c23f810e531d0702f76.ttf",
     "static/media/Jellyka_Estrya_Handwriting.ttf": "/static/media/Jellyka_Estrya_Handwriting.2986b095888630cd6372.ttf",
@@ -29,11 +28,11 @@
     "static/media/arrow-right.svg": "/static/media/arrow-right.f2f6b3e2a123998641311a773cc80657.svg",
     "static/media/document.svg": "/static/media/document.fcd5d22726cd6317934374726696c50d.svg",
     "main.aefd6c32.css.map": "/static/css/main.aefd6c32.css.map",
-    "main.682e4a88.js.map": "/static/js/main.682e4a88.js.map",
+    "main.3f2cf260.js.map": "/static/js/main.3f2cf260.js.map",
     "787.396d80e2.chunk.js.map": "/static/js/787.396d80e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aefd6c32.css",
-    "static/js/main.682e4a88.js"
+    "static/js/main.3f2cf260.js"
   ]
 }
